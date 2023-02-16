@@ -15,16 +15,10 @@ Il donne des indications sur :
  
  
 **Composants :**
-
-- Boitier
-- Recycleur d'air
-- Microcontrolleur Arduino Uno R3
-- Capteur de gaz
-- Capteur d'humidité du sol
-- Capteur de température
-- Ecran LCD
+- Micro-contrôleur Arduino Uno R3
+- 2 Moteurs à courant continu
 - Micro Servo
-- Moteur à courant
-- Element piezoelectrique
-- Alarme
-- Câbles
+- Platine d'essai
+- Capteur d'humidité du sol
+- Capteur de température [TMP36]
+- Capteur de gaz
